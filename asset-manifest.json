@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/aryanthosar100/Aryan-Portfolio.git/static/js/main.428af441.js",
+    "main.js": "/aryanthosar100/Aryan-Portfolio.git/static/js/main.b9f95320.js",
     "static/media/gym6.png": "/aryanthosar100/Aryan-Portfolio.git/static/media/gym6.ba0f65090cb9ca11ece8.png",
     "static/media/gym4.png": "/aryanthosar100/Aryan-Portfolio.git/static/media/gym4.ec7a5e185ffaa12c6692.png",
     "static/media/gym3.png": "/aryanthosar100/Aryan-Portfolio.git/static/media/gym3.d8f1e1d376ba69d6dbd7.png",
@@ -11,9 +11,9 @@
     "static/media/resp3.jpeg": "/aryanthosar100/Aryan-Portfolio.git/static/media/resp3.3c84413cbaba4fbf9326.jpeg",
     "static/media/resp1.jpeg": "/aryanthosar100/Aryan-Portfolio.git/static/media/resp1.8a080181dd776e97adc2.jpeg",
     "index.html": "/aryanthosar100/Aryan-Portfolio.git/index.html",
-    "main.428af441.js.map": "/aryanthosar100/Aryan-Portfolio.git/static/js/main.428af441.js.map"
+    "main.b9f95320.js.map": "/aryanthosar100/Aryan-Portfolio.git/static/js/main.b9f95320.js.map"
   },
   "entrypoints": [
-    "static/js/main.428af441.js"
+    "static/js/main.b9f95320.js"
   ]
 }
