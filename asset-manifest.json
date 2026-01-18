@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/portfolio/static/js/main.446738f6.js",
-    "static/media/gym6.png": "/portfolio/static/media/gym6.ba0f65090cb9ca11ece8.png",
-    "static/media/gym4.png": "/portfolio/static/media/gym4.ec7a5e185ffaa12c6692.png",
-    "static/media/gym3.png": "/portfolio/static/media/gym3.d8f1e1d376ba69d6dbd7.png",
-    "static/media/gym2.png": "/portfolio/static/media/gym2.f1be0e59c9e8003f4d73.png",
-    "static/media/gym1.png": "/portfolio/static/media/gym1.4b15ae467bf2fb3ad18f.png",
-    "static/media/gym5.png": "/portfolio/static/media/gym5.f69d9f399f8b1b6c84a6.png",
-    "static/media/resp2.jpeg": "/portfolio/static/media/resp2.4604c746f941bce9cbe1.jpeg",
-    "static/media/resp3.jpeg": "/portfolio/static/media/resp3.3c84413cbaba4fbf9326.jpeg",
-    "static/media/resp1.jpeg": "/portfolio/static/media/resp1.8a080181dd776e97adc2.jpeg",
-    "index.html": "/portfolio/index.html",
-    "main.446738f6.js.map": "/portfolio/static/js/main.446738f6.js.map"
+    "main.js": "/aryanthosar100/Aryan-Portfolio.git/static/js/main.428af441.js",
+    "static/media/gym6.png": "/aryanthosar100/Aryan-Portfolio.git/static/media/gym6.ba0f65090cb9ca11ece8.png",
+    "static/media/gym4.png": "/aryanthosar100/Aryan-Portfolio.git/static/media/gym4.ec7a5e185ffaa12c6692.png",
+    "static/media/gym3.png": "/aryanthosar100/Aryan-Portfolio.git/static/media/gym3.d8f1e1d376ba69d6dbd7.png",
+    "static/media/gym2.png": "/aryanthosar100/Aryan-Portfolio.git/static/media/gym2.f1be0e59c9e8003f4d73.png",
+    "static/media/gym1.png": "/aryanthosar100/Aryan-Portfolio.git/static/media/gym1.4b15ae467bf2fb3ad18f.png",
+    "static/media/gym5.png": "/aryanthosar100/Aryan-Portfolio.git/static/media/gym5.f69d9f399f8b1b6c84a6.png",
+    "static/media/resp2.jpeg": "/aryanthosar100/Aryan-Portfolio.git/static/media/resp2.4604c746f941bce9cbe1.jpeg",
+    "static/media/resp3.jpeg": "/aryanthosar100/Aryan-Portfolio.git/static/media/resp3.3c84413cbaba4fbf9326.jpeg",
+    "static/media/resp1.jpeg": "/aryanthosar100/Aryan-Portfolio.git/static/media/resp1.8a080181dd776e97adc2.jpeg",
+    "index.html": "/aryanthosar100/Aryan-Portfolio.git/index.html",
+    "main.428af441.js.map": "/aryanthosar100/Aryan-Portfolio.git/static/js/main.428af441.js.map"
   },
   "entrypoints": [
-    "static/js/main.446738f6.js"
+    "static/js/main.428af441.js"
   ]
 }
